@@ -1,1 +1,1 @@
-Doing to the test for git pull
+Testing git pull
